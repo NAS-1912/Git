@@ -15,5 +15,6 @@ if __name__ == '__main__':
 
 print("Ты кто?")
 print("Что-то не проходят изменения...")
+print("Для досылки изменений на gitHub нужно делать не только commit, но и push")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
