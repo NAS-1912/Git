@@ -14,5 +14,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 print("Ты кто?")
+print("Что-то не проходят изменения...")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
